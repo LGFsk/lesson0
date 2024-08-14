@@ -1,0 +1,11 @@
+name="Евгений Коротков'"
+print('Hi ' + name)
+print( name*2 + ' 1')
+print(name[-0]+name[-1])
+print(name[-0],name[-1])
+print("ЕвГ"+name[3:7])
+print(name[0:2]+"Г"+name[3:7])
+print(name[0:12:3])
+print(name[:3])
+print(name[3:])
+print(name[::-1])
